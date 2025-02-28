@@ -135,7 +135,12 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="entregasCPP.cpp" />
     <ClCompile Include="Modelos de Optimización.cpp" />
+    <ClCompile Include="funciones.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="funciones.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
