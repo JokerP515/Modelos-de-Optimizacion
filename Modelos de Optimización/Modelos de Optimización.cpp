@@ -13,13 +13,18 @@ int main(int argc, char* argv[]) {
 	// Inicializar Google Flags
     absl::SetFlag(&FLAGS_stderrthreshold, 0);
     
-	std::cout << "Problema 1: Utilidad de pinturas" << std::endl;
+	std::cout << "Problema Clase 1: Utilidad de pinturas" << std::endl;
     operations_research::utilidadPinturas();
 	
     std::cout << std::endl;
 
-	std::cout << "Problema 2: << Problema 2: Asignación de Recursos en un Servidor" << std::endl;
+	std::cout << "Problema 1 Taller 4: Asignación de Recursos en un Servidor" << std::endl;
     operations_research::recursosServidor();
+
+	std::cout << std::endl;
+
+	std::cout << "Problema 2 Taller 4: Planificación de Mantenimiento de Software" << std::endl;
+	operations_research::tareasApp();
 
     return EXIT_SUCCESS;
 }

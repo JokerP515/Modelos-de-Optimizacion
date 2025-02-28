@@ -39,6 +39,9 @@
     <ClCompile Include="Problema1.cpp">
       <Filter>Archivos de origen\Problemas Resueltos\Talleres\Taller 4</Filter>
     </ClCompile>
+    <ClCompile Include="Problema2.cpp">
+      <Filter>Archivos de origen\Problemas Resueltos\Talleres\Taller 4</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="funciones.h">

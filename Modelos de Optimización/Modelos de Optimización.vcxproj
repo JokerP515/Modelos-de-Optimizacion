@@ -138,6 +138,7 @@
     <ClCompile Include="entregasCPP.cpp" />
     <ClCompile Include="Modelos de Optimización.cpp" />
     <ClCompile Include="Problema1.cpp" />
+    <ClCompile Include="Problema2.cpp" />
     <ClCompile Include="ProblemasEnClase.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -6,6 +6,7 @@
 namespace operations_research {
 	void utilidadPinturas();
 	void recursosServidor();
+	void tareasApp();
 }
 
 #endif // funciones_h
