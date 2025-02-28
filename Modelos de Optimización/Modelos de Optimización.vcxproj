@@ -137,7 +137,8 @@
   <ItemGroup>
     <ClCompile Include="entregasCPP.cpp" />
     <ClCompile Include="Modelos de Optimización.cpp" />
-    <ClCompile Include="funciones.cpp" />
+    <ClCompile Include="Problema1.cpp" />
+    <ClCompile Include="ProblemasEnClase.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="funciones.h" />

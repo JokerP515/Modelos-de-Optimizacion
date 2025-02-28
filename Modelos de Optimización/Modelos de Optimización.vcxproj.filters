@@ -13,21 +13,36 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Archivos de origen\Problemas Resueltos">
+      <UniqueIdentifier>{b19644c6-7796-4797-ae92-acfd3fda181f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Problemas Resueltos\En Clase">
+      <UniqueIdentifier>{a07158db-c1d3-4398-9f87-43d88ff69cd8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Problemas Resueltos\Talleres">
+      <UniqueIdentifier>{414c5763-f9e7-420a-9b00-4f6ef46483ab}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Archivos de origen\Problemas Resueltos\Talleres\Taller 4">
+      <UniqueIdentifier>{71445e50-3eaf-4830-9777-609b2df42d8a}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Modelos de Optimización.cpp">
       <Filter>Archivos de origen</Filter>
     </ClCompile>
-    <ClCompile Include="funciones.cpp">
-      <Filter>Archivos de origen</Filter>
-    </ClCompile>
     <ClCompile Include="entregasCPP.cpp">
       <Filter>Archivos de origen</Filter>
+    </ClCompile>
+    <ClCompile Include="ProblemasEnClase.cpp">
+      <Filter>Archivos de origen\Problemas Resueltos\En Clase</Filter>
+    </ClCompile>
+    <ClCompile Include="Problema1.cpp">
+      <Filter>Archivos de origen\Problemas Resueltos\Talleres\Taller 4</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="funciones.h">
-      <Filter>Archivos de origen</Filter>
+      <Filter>Archivos de origen\Problemas Resueltos</Filter>
     </ClInclude>
   </ItemGroup>
 </Project>

@@ -4,7 +4,7 @@
 #include <iostream>
 
 namespace operations_research {
-	void UtilidadPinturas();
+	void utilidadPinturas();
 	void recursosServidor();
 }
 
