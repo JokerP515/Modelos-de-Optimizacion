@@ -7,6 +7,7 @@
 #include "funciones.h"
 
 int main(int argc, char* argv[]) {
+	setlocale(LC_ALL, "");
 	// Inicializar Google Logging
     InitGoogle(argv[0], &argc, &argv, true);
 	// Inicializar Google Flags
