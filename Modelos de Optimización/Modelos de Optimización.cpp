@@ -26,5 +26,8 @@ int main(int argc, char* argv[]) {
 	std::cout << "Problema 2 Taller 4: Planificación de Mantenimiento de Software" << std::endl;
 	operations_research::tareasApp();
 
+	std::cout << "Problema en clase 2:" << std::endl;
+	operations_research::clase1();
+
     return EXIT_SUCCESS;
 }
