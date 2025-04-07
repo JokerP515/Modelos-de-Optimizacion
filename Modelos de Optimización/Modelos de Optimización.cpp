@@ -29,5 +29,8 @@ int main(int argc, char* argv[]) {
 	std::cout << "Problema en clase 2:" << std::endl;
 	operations_research::clase1();
 
+	std::cout << "Problema parcial 2:" << std::endl;
+	operations_research::parcial2();
+
     return EXIT_SUCCESS;
 }

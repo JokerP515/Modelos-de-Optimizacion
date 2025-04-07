@@ -140,6 +140,7 @@
     <ClCompile Include="Problema1.cpp" />
     <ClCompile Include="Problema2.cpp" />
     <ClCompile Include="ProblemaEnClase2.cpp" />
+    <ClCompile Include="ProblemaParcial2.cpp" />
     <ClCompile Include="ProblemasEnClase.cpp" />
   </ItemGroup>
   <ItemGroup>

@@ -8,6 +8,7 @@ namespace operations_research {
 	void recursosServidor();
 	void tareasApp();
 	void clase1();
+	void parcial2();
 }
 
 #endif // funciones_h

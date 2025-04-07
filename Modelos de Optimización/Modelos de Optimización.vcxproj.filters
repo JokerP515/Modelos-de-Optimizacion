@@ -45,6 +45,9 @@
     <ClCompile Include="ProblemaEnClase2.cpp">
       <Filter>Archivos de origen\Problemas Resueltos\En Clase</Filter>
     </ClCompile>
+    <ClCompile Include="ProblemaParcial2.cpp">
+      <Filter>Archivos de origen\Problemas Resueltos\En Clase</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="funciones.h">
